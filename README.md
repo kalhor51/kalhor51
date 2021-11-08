@@ -1,8 +1,7 @@
-- 👋 Hi, I’m kalhor
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m kalhor
+- I’m interested in Python and Java
+- I’m currently learning Python
+Well thats it
 
 <!---
 kalhor51/kalhor51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
